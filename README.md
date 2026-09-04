@@ -4,7 +4,7 @@
 [![Star History](https://api.star-history.com/svg?repos=ethicals7s/awesome-local-ai&type=Date)](https://star-history.com/#ethicals7s/awesome-local-ai&Date)
 
 > Curated list of the best **open-source** tools to run, fine-tune, and build with LLMs **100% locally** in 2025–2026  
-> No cloud · No API keys · No censorship — **152 tools with descriptions and growing**
+> No cloud · No API keys · No censorship — **153 tools with descriptions and growing**
 
 **Star this repo to keep the ultimate local-AI toolbox at hand → updated weekly**
 
@@ -113,7 +113,7 @@
 - [ExLlama](https://github.com/turboderp/exllama) – Fast LLaMA inference with quantization
 - [ExLlamaV2](https://github.com/turboderp/exllamav2) – Optimized quantized inference
 
-## Voice & Multimodal (local) (16)
+## Voice & Multimodal (local) (17)
 - [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) – Fast local speech-to-text
 - [Coqui TTS](https://github.com/coqui-ai/TTS) – Neural text-to-speech synthesis
 - [OpenVoice](https://github.com/myshell-ai/OpenVoice) – Instant voice cloning
@@ -130,6 +130,7 @@
 - [Kosmos-2](https://github.com/microsoft/unilm/tree/master/kosmos-2) – Grounded image-text model
 - [ImageBind](https://github.com/facebookresearch/ImageBind) – Multimodal embedding across 6 modalities
 - [CLIP](https://github.com/openai/CLIP) – Contrastive language-image pretraining
+- [Mold](https://github.com/utensils/mold) – CLI-native local AI image/video/3D generation (Rust/Candle, CUDA/Metal, MCP)
 
 ## Inference Engines & Backends (22)
 - [vLLM](https://github.com/vllm-project/vllm) – High-throughput serving with PagedAttention
