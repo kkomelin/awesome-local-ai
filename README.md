@@ -49,6 +49,7 @@
 - [QA-Pilot](https://github.com/reid41/QA-Pilot) – Interactive repo/file chat
 - [Shell-Pilot](https://github.com/reid41/shell-pilot) – LLM-powered shell scripting
 - [n8n Ollama Desktop](https://github.com/kkomelin/n8n-ollama-desktop) – Desktop app that combines n8n and Ollama
+- [OpenPilot](https://github.com/ibmshaikh/OpenPilot) – Open-source desktop AI agent for any OpenAI-compatible model (Ollama, LM Studio, OpenRouter, OpenAI). Approve shell/file changes. MIT. Not related to comma.ai.
 
 ## Agent Frameworks (fully local) (25)
 - [CrewAI](https://crewai.com) – Multi-agent orchestration framework
